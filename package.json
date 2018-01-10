@@ -19,6 +19,7 @@
     "chai": "^4.1.2",
     "clean-webpack-plugin": "^0.1.17",
     "copy-webpack-plugin": "^4.3.1",
+    "css-loader": "^0.28.8",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^4.15.0",
@@ -30,6 +31,7 @@
     "mocha": "^4.1.0",
     "redux-mock-store": "^1.4.0",
     "sinon": "^4.1.4",
+    "style-loader": "^0.19.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.10.1"
   },
