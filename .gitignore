@@ -51,6 +51,7 @@ public
 package-lock.json
 
 firebase-debug.log
+.runtimeconfig.json
 
 # Consider removing this line:
 .firebaserc
